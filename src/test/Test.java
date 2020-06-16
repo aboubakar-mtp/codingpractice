@@ -33,7 +33,7 @@ public class Test {
 		
 		System.out.println(points.length);
 		
-		
+		//testing
 		//System.out.println(m.groupCount());
 		
 	}
